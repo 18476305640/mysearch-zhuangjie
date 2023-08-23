@@ -1,1 +1,1 @@
-<tis::https://raw.githubusercontent.com/18476305640/mysearch-zhuangjie/master/%E6%94%B6%E8%97%8F%E7%9A%84%E8%84%9A%E6%9C%AC.md fetchFun="sLineFetchFun" />
+<tis::https://raw.githubusercontent.com/18476305640/mysearch-zhuangjie/master/%E6%94%B6%E8%97%8F%E7%9A%84%E8%84%9A%E6%9C%AC.md fetchFun="mLineFetchFun" />
